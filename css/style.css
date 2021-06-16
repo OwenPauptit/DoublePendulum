@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background: black;
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: white;
+}
+button{
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    font-size: larger;
+    background:royalblue;
+    color: white;
+    border: none;
+    border-radius: 5%;
+    padding: 5px 15px 5px 15px;
+}
+
+button:hover{
+    border: 2px white solid;
+    cursor: pointer;
+}
+
+button:active{
+    border: 2px cornflowerblue solid;
+}
